@@ -1,0 +1,31 @@
+# 编译产物
+bin/
+obj/
+
+# 用户特定配置
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 运行时生成文件
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+Logs/
+
+# IDE 配置
+.vs/
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+*.log
